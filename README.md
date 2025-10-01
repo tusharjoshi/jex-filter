@@ -2,6 +2,8 @@
 
 A Java library that implements a custom filter syntax for JSON data processing, designed to support 3GPP JEX (JSON Expression) specifications with enhanced filtering capabilities.
 
+[![Java CI](https://github.com/tusharjoshi/jex-filter/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tusharjoshi/jex-filter/actions/workflows/ci.yml)
+
 ## Overview
 
 This project provides a JexPath Filter implementation that transforms custom filter expressions into standard JSONPath queries. It's built on top of the established [Jayway JsonPath](https://github.com/json-path/JsonPath) library and includes necessary customizations to support 3GPP JEX specifications.
