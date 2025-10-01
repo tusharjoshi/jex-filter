@@ -138,3 +138,10 @@ application-local.properties
 # SonarQube
 .sonar/
 .scannerwork/
+
+# Ensure Gradle wrapper JAR/properties and wrapper scripts are tracked even though
+# generic '*.jar' rules appear above.
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
