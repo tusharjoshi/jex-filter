@@ -2,7 +2,7 @@
 
 A Java library that implements a custom filter syntax for JSON data processing, designed to support 3GPP JEX (JSON Expression) specifications with enhanced filtering capabilities.
 
-[![Java CI](https://github.com/tusharjoshi/jex-filter/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tusharjoshi/jex-filter/actions/workflows/ci.yml)
+[![Java CI](https://github.com/tusharjoshi/jex-filter/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/tusharjoshi/jex-filter/actions/workflows/main.yml)
 
 ## Overview
 
